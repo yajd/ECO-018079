@@ -1,0 +1,6 @@
+BOM OF 21158860-013
+-Need to add 22025469 but it has LR4 document so creating new PN (22056690) based on this
+--removed 21172816 (cust doc for lr4 rosa, note: should replace with cust doc for 21158860-013 but i dont know if it has one
+--came with 'save as': 22025468
+--came with 'Save as': 30116153
+--note:the remaining bom that came attached with this is ok so submitting
